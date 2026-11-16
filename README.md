@@ -26,3 +26,7 @@ The local preview is not a production service.
 - This is CI plus artifact delivery, not a deployed running application.
 
 This project demonstrates local validation, automated testing, and website artifact generation using Python.
+
+## Repository Purpose
+
+This repository demonstrates the Enterprise Application Development delivery workflow, including Git version control, GitHub collaboration, automated testing, and build artifact generation. It provides a practical example of how developers manage source code, validate changes, and deliver project artifacts.
